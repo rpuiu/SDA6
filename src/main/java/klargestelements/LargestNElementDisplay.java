@@ -1,6 +1,6 @@
 package klargestelements;
 
-public class ElementRemover {
+public class LargestNElementDisplay {
 
     public static void main(String[] args) {
         int[] array = new int[]{44,222,33,123213,412};
